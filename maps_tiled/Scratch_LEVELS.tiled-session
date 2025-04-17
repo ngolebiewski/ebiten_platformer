@@ -1,0 +1,53 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "scratch-dem0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "colored_tilemap_packed.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 4,
+            "scaleInEditor": 8
+        },
+        "colored_tilemap_packed_8x8.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 5.5,
+            "scaleInEditor": 5.5
+        },
+        "scratch-dem0.tmx": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 76.625,
+                "y": 40.625
+            }
+        }
+    },
+    "last.exportedFilePath": "/Users/nickgolebiewski/Documents/Coding_Projects/2025/GAME_DEV/ebit_exp/assets",
+    "last.imagePath": "/Users/nickgolebiewski/Downloads/kenney_micro-roguelike/Tilemap",
+    "map.height": 12,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 15,
+    "openFiles": [
+        "colored_tilemap_packed_8x8.tsx",
+        "scratch-dem0.tmx"
+    ],
+    "project": "Scratch_LEVELS.tiled-project",
+    "recentFiles": [
+        "colored_tilemap_packed_8x8.tsx",
+        "scratch-dem0.tmx",
+        "colored_tilemap_packed.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
